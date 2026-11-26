@@ -1,5 +1,5 @@
 const APP_CONFIG = {
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbyuORHMy0laIHKA6laLRz-jvK__-j2-eCgcSqCJuJNWToto1qOj2uQLJIgENQ7BKcj46Q/exec",
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbybItKDOMOmuOMzDTaxUWl9K87oP-nLkPet7rdarS6JwFuAO2LOfFWPQ_eCzr3SsFntpQ/exec",
   osrmUrl: "https://router.project-osrm.org",
   mapTilesUrl: "https://tiles.openfreemap.org/styles/liberty",
   walkSpeedKmh: 5,
